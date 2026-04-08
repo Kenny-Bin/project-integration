@@ -1,8 +1,7 @@
-Project Integration
-병원 및 사용자 관리를 위한 NestJS 기반 백엔드 API 서버
+NestJS 기반 백엔드 API 서버
 
 프로젝트 개요
-이 프로젝트는 병원 정보 및 사용자 관리 시스템을 위한 RESTful API 서버입니다. JWT 기반 인증을 사용하며, TypeORM을 통해 MySQL 데이터베이스와 연동됩니다.
+이 프로젝트는 사용자 관리 시스템을 위한 RESTful API 서버입니다. JWT 기반 인증을 사용하며, TypeORM을 통해 MySQL 데이터베이스와 연동됩니다.
 
 기술 스택
 Framework: NestJS 10.x
